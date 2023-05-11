@@ -1,5 +1,5 @@
 # Phase-3-Project-SyriaTel-Customer-Churn
-![Cover]([[https://github.com/okudapascal/dsc-phase-2-project/blob/main/images/Correlation%20matrix.png?raw=true](https://github.com/Aquinate22/Phase-3-Project-SyriaTel-Customer-Churn/blob/main/fl/title.png))
+![Cover]([(https://github.com/Aquinate22/Phase-3-Project-SyriaTel-Customer-Churn/blob/main/fl/title.png))
 
 
 This is a group project and the group members are Mitchelle Okubasu, Pascal Okuda, Ann Gitonga and Cynthia Karuga.
