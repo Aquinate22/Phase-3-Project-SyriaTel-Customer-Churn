@@ -37,6 +37,8 @@ Data cleaning and analysis
 
 The data had no missing values. A univarate,bivariate and multivariate analysis was done. Several models were used, logistic regression and random forest were used. 
 
+
+![historam](https://github.com/Aquinate22/Phase-3-Project-SyriaTel-Customer-Churn/blob/main/fl/hist.png)
 Recommendation
 
 -Customer care agents could be trained on giving a better customer experience to reduce the churn that increases with customer service calls
