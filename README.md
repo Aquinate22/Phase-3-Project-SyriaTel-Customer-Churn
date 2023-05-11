@@ -8,9 +8,6 @@ Cynthia Karuga
 Mitchelle Okubasu
 Okuda Pascal
 
-# Student Pace
-
-# Part-time
 # Instructors
 
 Samwel Jane
@@ -18,7 +15,7 @@ Stella Waithera
 Everlyn Asiko
 
 
-Problem Statement
+# Problem Statement
 
 Build a classifier model to predict whether a customer will ("soon") stop doing business with SyriaTel Company.
 
@@ -49,7 +46,7 @@ Churn
 
 # Data cleaning and analysis
 
-The data had no missing values. A univarate,bivariate and multivariate analysis was done. Several models were used, logistic regression, random forest and decision tree.
+The data had no missing values. A univarate,bivariate and multivariate analysis was done. Several models were used, logistic regression, random forest and decision tree. Random forest was picked for its high accuracy. Its features were international plan and total charges.
 
 
 ![historam](https://github.com/Aquinate22/Phase-3-Project-SyriaTel-Customer-Churn/blob/main/fl/hist.png)
@@ -59,6 +56,10 @@ univariate analysis
 ![bivariate](https://github.com/Aquinate22/Phase-3-Project-SyriaTel-Customer-Churn/assets/122473084/05a7e3b3-bdcc-40c5-b9ce-73038c2eb7c9)
 
 bivariate analysis
+
+![image](https://github.com/Aquinate22/Phase-3-Project-SyriaTel-Customer-Churn/assets/122473084/cea0ff1c-07c0-4d22-9fee-a41bff9b4fe2)
+
+Model comparison
 
 # Recommendation
 
