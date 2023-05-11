@@ -15,7 +15,9 @@ Instructors:
 Samwel Jane
 Stella Waithera
 Everlyn Asiko
-This is a group project and the group members are Mitchelle Okubasu, Pascal Okuda, Ann Gitonga and Cynthia Karuga.
+This is a group project and the group members are
+
+Mitchelle Okubasu, Pascal Okuda, Ann Gitonga and Cynthia Karuga.
 
 Problem Statement
 
