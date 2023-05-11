@@ -1,5 +1,5 @@
 # Phase-3-Project-SyriaTel-Customer-Churn
-
+![Correlation matrix](https://github.com/okudapascal/dsc-phase-2-project/blob/main/images/Correlation%20matrix.png?raw=true)
 This is a group project and the group members are Mitchelle Okubasu, Pascal Okuda, Ann Gitonga and Cynthia Karuga.
 
 Problem Statement
