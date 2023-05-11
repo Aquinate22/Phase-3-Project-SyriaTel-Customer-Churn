@@ -55,6 +55,9 @@ The data had no missing values. A univarate,bivariate and multivariate analysis 
 ![historam](https://github.com/Aquinate22/Phase-3-Project-SyriaTel-Customer-Churn/blob/main/fl/hist.png)
 univariate analysis
 
+![bivariate](https://github.com/Aquinate22/Phase-3-Project-SyriaTel-Customer-Churn/assets/122473084/05a7e3b3-bdcc-40c5-b9ce-73038c2eb7c9)
+bivariate analysis
+
 # Recommendation
 
 -Customer care agents could be trained on giving a better customer experience to reduce the churn that increases with customer service calls
