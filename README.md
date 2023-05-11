@@ -1,7 +1,20 @@
-# Phase-3-Project-SyriaTel-Customer-Churn
+# GROUP 4 : CUSTOMER CHURN ANALYSIS
 ![Cover](https://github.com/Aquinate22/Phase-3-Project-SyriaTel-Customer-Churn/blob/main/fl/title.png)
 
+Student Names:
 
+Anne Gitonga
+Cynthia Karuga
+Mitchelle Okubasu
+Okuda Pascal
+Student Pace:
+
+Part-time
+Instructors:
+
+Samwel Jane
+Stella Waithera
+Everlyn Asiko
 This is a group project and the group members are Mitchelle Okubasu, Pascal Okuda, Ann Gitonga and Cynthia Karuga.
 
 Problem Statement
